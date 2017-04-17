@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/mcdermottsolutions/portfolio-test#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "forever": "^0.15.3"
   },
   "devDependencies": {
     "mocha": "^3.2.0",
